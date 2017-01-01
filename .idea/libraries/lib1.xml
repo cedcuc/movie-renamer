@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/simmetrics_jar_v1_6_2_d07_02_07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/nekohtml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/ehcache.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/slf4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/xmlrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/slf4j-jdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-core/lib/jdom-2.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

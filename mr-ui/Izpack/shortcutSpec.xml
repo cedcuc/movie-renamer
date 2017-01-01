@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<shortcuts>
+  <skipIfNotSupported/>
+  <programGroup defaultName="Movie Renamer"
+              location="applications"/>
+  <shortcut name="Movie Renamer"
+    target="$INSTALL_PATH\Movie Renamer.jar"
+    description="Movie Renamer Rename your Movies"
+    workingDirectory="$INSTALL_PATH"
+    iconFile="$INSTALL_PATH\icon.ico"
+    initialState="normal"
+    programGroup="yes"
+    desktop="yes"
+    applications="yes"
+    startMenu="yes"
+    type="Application"
+    startup="no">
+    <createForPack name="Movie Renamer"/>
+  </shortcut>
+</shortcuts>

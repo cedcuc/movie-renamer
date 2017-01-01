@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mr-ui/lib/weblaf-1.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-ui/lib/glazedlists-1.8.0_java15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mr-ui/lib/jna.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
